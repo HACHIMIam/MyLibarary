@@ -1,0 +1,26 @@
+{
+  "name": "mylibrary",
+  "version": "1.0.0",
+  "description": "get random data",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACHIMIam/MyLibarary.git"
+  },
+  "keywords": [
+    "random",
+    "data"
+  ],
+  "author": "hachimi ahmed amine <hachimiaminne@gmail.com> (http://hachimiahmedamine.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HACHIMIam/MyLibarary/issues"
+  },
+  "homepage": "https://github.com/HACHIMIam/MyLibarary#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
