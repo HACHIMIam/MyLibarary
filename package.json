@@ -1,6 +1,6 @@
 {
-  "name": "mylibrary",
-  "version": "1.0.0",
+  "name": "mykllibrary",
+  "version": "1.1.0",
   "description": "get random data",
   "main": "src/index.js",
   "scripts": {
